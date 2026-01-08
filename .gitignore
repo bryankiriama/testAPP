@@ -1,0 +1,6 @@
+.env
+./env
+.env/
+.virtual
+./virtual
+.env
